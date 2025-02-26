@@ -90,3 +90,6 @@ body {
   color: #28a745;
 }  
 
+.task-card:hover {
+  background-color: aqua;
+}
